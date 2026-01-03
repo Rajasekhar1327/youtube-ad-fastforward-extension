@@ -1,0 +1,1 @@
+“I built a Chrome extension that fast-forwards YouTube ads. I used JavaScript to implement the logic, DOM APIs to access and control the video element, and MutationObserver to watch for dynamic changes like ad popups. The code runs as a Manifest V3 content script, which allows the extension to execute inside YouTube pages safely and efficiently.”
